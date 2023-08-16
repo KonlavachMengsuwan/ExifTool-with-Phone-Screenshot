@@ -22,10 +22,10 @@ Step 3: Print EXIF and XMP \
 Step 4: Export EXIF and XMP as csv \
 
 ## Additional:
-Step 5: Delete Exif \
-Step 6: List XMP Tag that we want to delete \
-Step 7: Open pix4d.config and add the XMP Tag that we want to delete \
-Step 8: Run the code to delete specific XMP \
+- Delete Exif \
+- List XMP Tag that we want to delete \
+- Open pix4d.config and add the XMP Tag that we want to delete \
+- Run the code to delete specific XMP \
 Done
 
 ---
