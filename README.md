@@ -16,9 +16,9 @@ I follow some steps from this youtube video: https://www.youtube.com/watch?v=vTY
 ---
 
 ## Overall Steps:
-Step 1: Backup file /
-Step 2: Run ExifTool 
-Step 3: Print EXIF and XMP 
+Step 1: Backup file \
+Step 2: Run ExifTool \
+Step 3: Print EXIF and XMP \ 
 Step 4: Export EXIF and XMP as csv 
 
 ## Additional:
